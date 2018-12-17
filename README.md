@@ -2,7 +2,7 @@
 
 This is the code of project--**Predicting Bond Excess Return**.
 
-We use multi-dimensional Factor including technical factors, macroeconomic and financial factors, composite leading factors, market factors, sentiment factors, stock model factors adn classical model factors(like CP factors, etc.) to *build a multi-dimensional selection factor model* to predict bond excess return for 2-5 year. And our model *score a higher* $R^2$ than the classical models.
+We use multi-dimensional factor including technical factors, macroeconomic and financial factors, composite leading factors, market factors, sentiment factors, stock model factors adn classical model factors(like CP factors, etc.) to *build a multi-dimensional selection factor model* to predict bond excess return for 2-5 year. And our model *score a higher* $R^2$ than the classical models.
 
 We process data using four method, including class-within PCA(one factor from each class contributing to reveal economic meanings), backward selection(filter factors by p-value), in-sample and out-sample method and OLS.
 
